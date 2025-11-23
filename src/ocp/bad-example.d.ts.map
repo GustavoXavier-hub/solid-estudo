@@ -1,1 +1,0 @@
-{"version":3,"file":"bad-example.d.ts","sourceRoot":"","sources":["bad-example.ts"],"names":[],"mappings":"AAEA,qBAAa,gBAAgB;IAC3B,cAAc,CAAC,MAAM,EAAE,MAAM,EAAE,IAAI,EAAE,MAAM,GAAG,IAAI;IAqBlD,OAAO,CAAC,kBAAkB;IAI1B,OAAO,CAAC,gBAAgB;IAIxB,OAAO,CAAC,iBAAiB;IAIzB,OAAO,CAAC,eAAe;IAIvB,OAAO,CAAC,kBAAkB;IAI1B,OAAO,CAAC,YAAY;IAIpB,OAAO,CAAC,eAAe;IAIvB,OAAO,CAAC,SAAS;CAGlB"}
