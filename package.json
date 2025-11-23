@@ -1,0 +1,33 @@
+{
+  "name": "solid-estudo",
+  "version": "1.0.0",
+  "description": "Estudo prático dos princípios SOLID de arquitetura de software",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "srp:bad": "ts-node src/srp/bad-example.ts",
+    "srp:good": "ts-node src/srp/good-example.ts",
+    "ocp:bad": "ts-node src/ocp/bad-example.ts",
+    "ocp:good": "ts-node src/ocp/good-example.ts",
+    "lsp:bad": "ts-node src/lsp/bad-example.ts",
+    "lsp:good": "ts-node src/lsp/good-example.ts",
+    "isp:bad": "ts-node src/isp/bad-example.ts",
+    "isp:good": "ts-node src/isp/good-example.ts",
+    "dip:bad": "ts-node src/dip/bad-example.ts",
+    "dip:good": "ts-node src/dip/good-example.ts"
+  },
+  "keywords": [
+    "solid",
+    "arquitetura",
+    "oop",
+    "design-patterns",
+    "clean-code"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
