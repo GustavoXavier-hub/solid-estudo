@@ -95,7 +95,7 @@ export class Sparrow extends Bird {
 
 export class Penguin extends Bird {
   makeSound(): void {
-    console.log('Quack quack!');
+    console.log('Squawk squawk!'); // Som realista de pinguim
   }
 
   move(): void {
