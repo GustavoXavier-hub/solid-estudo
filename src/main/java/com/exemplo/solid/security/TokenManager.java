@@ -33,7 +33,7 @@ public class TokenManager {
         }
 
         if (System.currentTimeMillis() > expirationTime) {
-            validTokens.remove(token); // Remove token expirado
+            validTokens.remove(token);
             return false;
         }
 

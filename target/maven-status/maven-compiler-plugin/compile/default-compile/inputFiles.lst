@@ -1,11 +1,14 @@
+C:\Users\GUSTAVO\OneDrive\Área de Trabalho\Estudo\solid-springboot-example\src\main\java\com\exemplo\solid\config\SecurityConfig.java
 C:\Users\GUSTAVO\OneDrive\Área de Trabalho\Estudo\solid-springboot-example\src\main\java\com\exemplo\solid\config\SwaggerConfig.java
 C:\Users\GUSTAVO\OneDrive\Área de Trabalho\Estudo\solid-springboot-example\src\main\java\com\exemplo\solid\config\SwaggerUiRedirectConfig.java
 C:\Users\GUSTAVO\OneDrive\Área de Trabalho\Estudo\solid-springboot-example\src\main\java\com\exemplo\solid\controller\HealthController.java
 C:\Users\GUSTAVO\OneDrive\Área de Trabalho\Estudo\solid-springboot-example\src\main\java\com\exemplo\solid\controller\PedidoController.java
+C:\Users\GUSTAVO\OneDrive\Área de Trabalho\Estudo\solid-springboot-example\src\main\java\com\exemplo\solid\controller\TokenController.java
+C:\Users\GUSTAVO\OneDrive\Área de Trabalho\Estudo\solid-springboot-example\src\main\java\com\exemplo\solid\dto\PedidoUpdateDTO.java
 C:\Users\GUSTAVO\OneDrive\Área de Trabalho\Estudo\solid-springboot-example\src\main\java\com\exemplo\solid\model\Pedido.java
 C:\Users\GUSTAVO\OneDrive\Área de Trabalho\Estudo\solid-springboot-example\src\main\java\com\exemplo\solid\repository\PedidoRepository.java
 C:\Users\GUSTAVO\OneDrive\Área de Trabalho\Estudo\solid-springboot-example\src\main\java\com\exemplo\solid\security\ApiTokenFilter.java
-C:\Users\GUSTAVO\OneDrive\Área de Trabalho\Estudo\solid-springboot-example\src\main\java\com\exemplo\solid\security\SecurityConfig.java
+C:\Users\GUSTAVO\OneDrive\Área de Trabalho\Estudo\solid-springboot-example\src\main\java\com\exemplo\solid\security\TokenManager.java
 C:\Users\GUSTAVO\OneDrive\Área de Trabalho\Estudo\solid-springboot-example\src\main\java\com\exemplo\solid\service\impl\PedidoServiceImpl.java
 C:\Users\GUSTAVO\OneDrive\Área de Trabalho\Estudo\solid-springboot-example\src\main\java\com\exemplo\solid\service\PedidoService.java
 C:\Users\GUSTAVO\OneDrive\Área de Trabalho\Estudo\solid-springboot-example\src\main\java\com\exemplo\solid\SolidApplication.java
