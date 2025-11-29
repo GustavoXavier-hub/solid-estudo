@@ -27,7 +27,8 @@ public class SecurityConfig {
                 .httpBasic(basic -> basic.disable())
                 .authorizeHttpRequests(auth -> auth
                         .requestMatchers("/swagger-ui/**", "/v3/api-docs/**", "/swagger-ui.html").permitAll()
-                        .requestMatchers("/api/token/generate").permitAll() // Permite gerar token sem autenticação
+                        .requestMatchers("/api/token/generate").permitAll()
+                        .requestMatchers("/ping").permitAll() // Adicione esta linha
                         .anyRequest().authenticated()
                 )
                 .sessionManagement(session -> session

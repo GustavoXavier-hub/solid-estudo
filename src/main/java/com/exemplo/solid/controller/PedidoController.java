@@ -7,6 +7,7 @@ import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.ExampleObject;
 import io.swagger.v3.oas.annotations.media.Schema;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
+import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import com.exemplo.solid.model.Pedido;
@@ -16,6 +17,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/pedido")
+@Tag(name = "Pedido", description = "API de gerenciamento de pedidos")
 public class PedidoController {
 
     private final PedidoService service;
